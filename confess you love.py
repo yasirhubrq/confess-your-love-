@@ -1,7 +1,8 @@
 import pyautogui as auto
 import time
+#you can remove time sleep section
 time.sleep(3)
-
+#list for synonyms of lover
 lover_synonyms_extended = [
     "Admirer", "Beau", "Beloved","Girlfriend", 
     "Companion", "Crush", "Darling", "Date", "Devotee", 
